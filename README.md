@@ -22,3 +22,4 @@ Download the .sb3 file and open it in Scratch.
 
 ## Author
 Sewmini Yashodara
+![Game Screenshot](game-screenshot.png)
